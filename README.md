@@ -8,3 +8,5 @@ Abierto-cerrado, refiere a la capacidad del codigo de ser reutilizado sin tener 
 Responsabilidad unica, refiere a que una clase realice una especifica tarea y no se sobrecargen ejecuciones en una misma clase
 ejemplo cada vehiculo tiene una clase para si mismo y la clases vehiculo contiene las caracteristicas
 Inversion de dependencias, refiere a que una clase de nivel superior no dependa de una inferior, haciendo que las superiores no deban ser modificadas.
+
+[paquetes]: paquetes.jpg 
