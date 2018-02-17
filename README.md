@@ -9,8 +9,8 @@ Responsabilidad unica, refiere a que una clase realice una especifica tarea y no
 ejemplo cada vehiculo tiene una clase para si mismo y la clases vehiculo contiene las caracteristicas
 Inversion de dependencias, refiere a que una clase de nivel superior no dependa de una inferior, haciendo que las superiores no deban ser modificadas.
 
-![paquetes](https://github.com/modelosprog/PrincipiosPOO/blob/master/logica.JPG "oouuuu")
-
-
+![paquetes](https://github.com/modelosprog/PrincipiosPOO/blob/master/paquetes.JPG "oouuuu")
+![logica](https://github.com/modelosprog/PrincipiosPOO/blob/master/logica.JPG "ooeeeu")
+![interfaces](https://github.com/modelosprog/PrincipiosPOO/blob/master/interfaces.JPG "oouuuu")
 
 
