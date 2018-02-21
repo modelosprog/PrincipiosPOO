@@ -13,4 +13,6 @@ Inversion de dependencias, refiere a que una clase de nivel superior no dependa 
 ![logica](https://github.com/modelosprog/PrincipiosPOO/blob/master/logica.JPG "ooeeeu")
 ![interfaces](https://github.com/modelosprog/PrincipiosPOO/blob/master/interfaces.JPG "oouuuu")
 
-
+Daniela Alejandra Celis Garcia 20162020452  
+Silvia Daniela Jimenez Velasquez 20142020092
+Juan Pablo Arevalo 20162020454
